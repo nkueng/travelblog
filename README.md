@@ -2,6 +2,10 @@
 
 Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
 
+## Wochenberichte
+
+[Woche 1](https://github.com/nkueng/travelblog/blob/master/w1.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
