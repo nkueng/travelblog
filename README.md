@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Herzlich willkommen auf meinem Blog
 
-You can use the [editor on GitHub](https://github.com/nkueng/travelblog/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
 
 ### Markdown
 
