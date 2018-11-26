@@ -10,15 +10,15 @@ Momentan bin ich gerade dabei, die alten E-Mail Beiträge zu konvertieren. Diese
 - [Woche 1](https://nkueng.github.io/travelblog/w1)
 - [Woche 2](https://nkueng.github.io/travelblog/w2)
 - [Woche 3](https://nkueng.github.io/travelblog/w3)
-- [Woche 4]()
-- [Woche 5]()
+- [Woche 4]<!-- (https://nkueng.github.io/travelblog/w4) -->
+- [Woche 5]<!-- (https://nkueng.github.io/travelblog/w5) -->
 - [Woche 6]<!-- (https://nkueng.github.io/travelblog/w6) -->
-- [Woche 7](https://nkueng.github.io/travelblog/w7)
-- [Woche 8](https://nkueng.github.io/travelblog/w8)
-- [Woche 9](https://nkueng.github.io/travelblog/w9)
-- [Woche 10](https://nkueng.github.io/travelblog/w10)
-- [Woche 11]()
-- [Woche 12]
+- [Woche 7]<!-- (https://nkueng.github.io/travelblog/w7) -->
+- [Woche 8]<!-- (https://nkueng.github.io/travelblog/w8) -->
+- [Woche 9]<!-- (https://nkueng.github.io/travelblog/w9) -->
+- [Woche 10]<!-- (https://nkueng.github.io/travelblog/w10) -->
+- [Woche 11]<!-- (https://nkueng.github.io/travelblog/w11) -->
+- [Woche 12]<!-- (https://nkueng.github.io/travelblog/w12) -->
 - [Woche 13](https://nkueng.github.io/travelblog/w13)
 
 ### Kontakt
