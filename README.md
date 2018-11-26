@@ -16,7 +16,8 @@ Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
 - [Woche 9](https://nkueng.github.io/travelblog/w9)
 - [Woche 10](https://nkueng.github.io/travelblog/w10)
 - [Woche 11](https://nkueng.github.io/travelblog/w11)
-- [Woche 12](https://nkueng.github.io/travelblog/w12)
+- [Woche 12]
+- [Woche 13](https://nkueng.github.io/travelblog/w13)
 
 ### Kontakt
 
