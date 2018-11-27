@@ -23,4 +23,4 @@ Momentan bin ich gerade dabei, die alten E-Mail Beiträge zu konvertieren. Diese
 
 ### Kontakt
 
-Anregungen, Glückwünsche, Hochzeitsanträge bitte direkt an <a href="mailto:nickueng@gmail.com">mich</a>.
+Anregungen, Glückwünsche, Heiratsanträge bitte direkt an <a href="mailto:nickueng@gmail.com">mich</a>.
