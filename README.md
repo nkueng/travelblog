@@ -1,4 +1,4 @@
-## Herzlich willkommen auf meinem Blog
+## Herzlich willkommen auf meinem Reise-Blog
 
 Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. 
 Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
