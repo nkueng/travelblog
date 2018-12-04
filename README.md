@@ -13,7 +13,7 @@ Momentan bin ich gerade dabei, die alten E-Mail Beiträge zu konvertieren. Diese
 - [Woche 4: Die härteste Erfahrung meines Lebens](https://nkueng.github.io/travelblog/w4)
 - [Woche 5: Mexikanische Charakterstudien](https://nkueng.github.io/travelblog/w5)
 - [Woche 6: Kuriositätenglossar](https://nkueng.github.io/travelblog/w6)
-- [Woche 7: Wildes Wochenende in _Mazatlán_]<!-- (https://nkueng.github.io/travelblog/w7) -->
+- [Woche 7: Wildes Wochenende in _Mazatlán_](https://nkueng.github.io/travelblog/w7)
 - [Woche 8: 100 Kilometer durch die Wüste]<!-- (https://nkueng.github.io/travelblog/w8) -->
 - [Woche 9: Meine letzte Woche in _Juárez_]<!-- (https://nkueng.github.io/travelblog/w9) -->
 - [Woche 10: An der Küste von _Nayarit_]<!-- (https://nkueng.github.io/travelblog/w10) -->
