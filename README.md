@@ -16,7 +16,7 @@ Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
 - [Woche 9: Meine letzte Woche in _Juárez_](https://nkueng.github.io/travelblog/w9)
 - [Woche 10: An der Küste von _Nayarit_](https://nkueng.github.io/travelblog/w10)
 - [Woche 11: _Guadalajara_ und _Día de los Muertos_ auf _Janitzio_](https://nkueng.github.io/travelblog/w11)
-- [Woche 12: _Temazcal_ in _Guanajuato_ und Frustration in _San Miguel de Allende_](https://nkueng.github.io/travelblog/w12)
+- [Woche 12: _Temazcal_ in _Guanajuato_ und Frust in _San Miguel de Allende_](https://nkueng.github.io/travelblog/w12)
 - [Woche 13: Ein Ungeheuer namens _Mexico City_](https://nkueng.github.io/travelblog/w13)
 - [Woche 14: Genug Städte, ab in den Süden nach _Oaxaca_](https://nkueng.github.io/travelblog/w14)
 
