@@ -22,7 +22,7 @@ Vier Monate lang war ich in Mexiko unterwegs und durfte dabei viele spannende Ep
 - [Woche 13: Ein Ungeheuer namens _Mexico City_](https://nkueng.github.io/travelblog/w13)
 - [Woche 14: Genug Städte, ab in den Süden nach _Oaxaca_](https://nkueng.github.io/travelblog/w14)
 - [Woche 15: _Barra de la Cruz_, das wahre Paradies](https://nkueng.github.io/travelblog/w15)
-<!-- - [Woche 16: _Ayahuasca_ zum krönenden Abschluss](https://nkueng.github.io/travelblog/w16) -->
+- [Woche 16: _Ayahuasca_ zum krönenden Abschluss](https://nkueng.github.io/travelblog/w16)
 
 ## Kontakt
 
