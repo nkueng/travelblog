@@ -1,7 +1,9 @@
 ## Herzlich willkommen auf meinem Reiseblog
-
+<!-- 
 Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. 
-Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
+Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst! -->
+
+Vier Monate lang war ich in Mexiko unterwegs und durfte dabei viele spannende Episoden erleben. Auf diesem Blog habe ich sie wöchentlich zu einem humorvollen Bericht verdichtet. Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
 
 ## Wochenberichte
 
