@@ -8,7 +8,7 @@ Vier Monate lang war ich in Mexiko unterwegs und durfte dabei viele spannende Ep
 ## Wochenberichte
 
 - [Woche 1: Meine Anfänge in _Juárez_](https://nkueng.github.io/travelblog/mexico/w1)
-- [Woche 2: Erste Routinen](https://nkueng.github.io/travelblog/mexico/w2)
+- [Woche 2: Erste Routinen](https://nkueng.github.io/travelblog/mexico/w2_test)
 - [Woche 3: Das Schlimmste ist überstanden](https://nkueng.github.io/travelblog/mexico/w3)
 - [Woche 4: Die härteste Erfahrung meines Lebens](https://nkueng.github.io/travelblog/mexico/w4)
 - [Woche 5: Mexikanische Charakterstudien](https://nkueng.github.io/travelblog/mexico/w5)
