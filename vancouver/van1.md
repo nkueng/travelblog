@@ -77,7 +77,7 @@ I was never really sure, whether it was the effects of jet-lag or the actual tem
 ![](./imgs/van1/van1_14.jpg)
 Me, wrapped in just about every piece of clothing I have brought along.
 
-Soon enough, the courses at UBC – the actual reason for this trip – started off on the second of January (weird, right?). In the beginning I had a hard time deciding on a select few and instead went to see around 10 different lectures. After a couple of days without lunch and near starvation, I finally made my mind up and settled with four courses that promised interesting insights. All the while also allowing for the typical exchange-student-life on the side.
+Soon enough, the courses at UBC – the actual reason for this trip – started off on the second of January (weird, right?). In the beginning I had a hard time deciding on a selected few courses and instead went to see around 10 different lectures. After a couple of days without lunch and near starvation, I finally made my mind up and settled with four courses that promised interesting insights. All the while also allowing for the typical exchange-student-life on the side.
 
 <!-- gif of pedestrian traffic at UBC -->
 ![](./imgs/van1/van1_15.GIF)
@@ -100,7 +100,7 @@ This voluntary torture came to a temporary halt when vast amounts of snow have f
 ![](./imgs/van1/van1_18.jpg)
 Back home in Switzerland, this amount of snow wouldn't even make the bus driver nervous ;).
 
-Seizing on the opportunity, a huge snowball-fight took place when students returned to the campus the next day.
+Seizing the opportunity, a huge snowball-fight took place when students returned to the campus the next day.
 
 <!-- gif of snowball fight -->
 ![](./imgs/van1/van1_19.GIF)
