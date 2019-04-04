@@ -33,7 +33,7 @@ This eclectic selection of courses might make you wonder, how exactly they relat
 
 This in-depth analysis of my courses has certainly tired you, my dear reader, to the same extent like my studies tired me during the first half of the term. So, how about we take a brake together and fly out for a quick trip on
 
-###Hawaii
+### Hawaii
 
 At least, that's what I did. During the so-called _reading week_, I joined my fellow exchange students and now friends for an awesome adventure in _Honolulu_.
 
