@@ -6,7 +6,7 @@ Therefore, I will dedicate this _entire_ episode to counteract those disbeliefs 
 The lecture that gives me the most pleasure is a _Computer Science_ course on _Data Structures and Algorithms_. It helped me to finally overcome my fear of _Recursion_ and also made me understand why a _Sorted List_ is such a big thing among nerds. Never before have I ever had such passionate instructors. And their joy has certainly also infected me. I get to write code on a regular basis and often with a spectacular outcome like the one below.
 
 ![](.imgs/van2/bfscustom.gif)
-Not quite as good as the original, but _Lichtenstein_ also didn't have to code his.
+Not quite as good as the original, but _Lichtenstein_ also didn't have to code.
 
 Next up, I decided to invest in my cultural education and thus visit lectures in _Wine Science_. Two times a week I get to know stuff about wine growing regions, _varietal characters_, and how to best prune your vines. While such knowledge does not always strike me as overly relevant for future dinner table small-talk, the weekly wine tasting certainly does. There, we get to taste between two and three different kinds of wine from all around the world. But we don't do so to our enjoyment only, *NO*! The objective is to assess this luxurious good in terms of color, acidity, sweetness, astringency, and so on. While this already seems like quite a daunting challenge, imagine yourself weighing the wine's body with your tongue and expressing it in terms of a scale between skim milk and whole milk. And yes, this last example will also be part of the final exam.
 
@@ -90,9 +90,9 @@ Skiing on _Grouse Mountain_ with _Daniele_, another Swiss from my home uni.
 
 The story finally came to a happy end, when I heard about a fellow Swiss student's parents coming over for a visit. My parents then brought his parents some old devices of mine (and loads of chocolate). Within a week of the incident, I got back on tracks and was independent again. Should you read this, Raphaël, once again many thanks to you!
 
-So, yeah, no more fancy GIFs for the moment, I'm sorry. As an alternative, though, I can offer mouth-watering images of the results of cooking which I've taken up doing more seriously over here.
+So, yeah, no more fancy GIFs for the moment, sorry. As an alternative, though, I can offer mouth-watering images of the results of cooking which I've taken up doing more seriously over here.
 
 ![](.imgs/van2/van2_18.jpg)
 Yummi!
 
-That's it for this month, thanks for reading! Expect to hear back from me one last time after this whole adventure has come to an end. Until then take care and close your windows, Nicola
+That's it for this month, thanks for reading! Expect to hear back from me one last time, once this whole adventure has come to an end. Until then take care and close your windows, Nicola
