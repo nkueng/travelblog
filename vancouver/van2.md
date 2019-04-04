@@ -1,10 +1,11 @@
 In my [last report](./van1.md) you could read about the exciting start of my exchange semester. I wrote about parties, snowball fights, skiing, and parties. I later had to realize that this single-sided narrative made some people worry about the state of my studies. And especially about the state of my hairstyle.
-Therefore, I will dedicate this _entire_ episode to counteract those disbeliefs and prove that indeed both – my studies and hair – are doing quite well. So, let me begin with 
+Therefore, I will dedicate this _entire_ episode to counteract those disbeliefs and prove that indeed both – my studies and hair – are doing quite well. So, let me begin with
+
 ### My courses at UBC
+
 The lecture that gives me the most pleasure is a _Computer Science_ course on _Data Structures and Algorithms_. It helped me to finally overcome my fear of _Recursion_ and also made me understand why a _Sorted List_ is such a big thing among nerds. Never before have I ever had such passionate instructors. And their joy has certainly also infected me. I get to write code on a regular basis and often with a spectacular outcome like the one below.
 
-![](./imgs/van2/bfscustom.gif)
-
+![](./imgs/van2/bfscustom.gif)<br/>
 Not quite as good as the original, but _Lichtenstein_ also didn't have to code.
 
 Next up, I decided to invest in my cultural education and thus visit lectures in _Wine Science_. Two times a week I get to know stuff about wine growing regions, _varietal characters_, and how to best prune your vines. While such knowledge does not always strike me as overly relevant for future dinner table small-talk, the weekly wine tasting certainly does. There, we get to taste between two and three different kinds of wine from all around the world. But we don't do so to our enjoyment only, *NO*! The objective is to assess this luxurious good in terms of color, acidity, sweetness, astringency, and so on. While this already seems like quite a daunting challenge, imagine yourself weighing the wine's body with your tongue and expressing it in terms of a scale between skim milk and whole milk. And yes, this last example will also be part of the final exam.
@@ -30,8 +31,10 @@ This eclectic selection of courses might make you wonder, how exactly they relat
 <!-- ![](./imgs/van2/van2_4.jpg) -->
 
 
-This in-depth analysis of my courses has certainly tired you, my dear reader, to the same extent like my studies tired me during the first half of the term. So, how about we take a brake together and fly out for a quick trip on 
+This in-depth analysis of my courses has certainly tired you, my dear reader, to the same extent like my studies tired me during the first half of the term. So, how about we take a brake together and fly out for a quick trip on
+
 ###Hawaii
+
 At least, that's what I did. During the so-called _reading week_, I joined my fellow exchange students and now friends for an awesome adventure in _Honolulu_.
 
 ![](./imgs/van2/van2_5.jpg)
@@ -96,4 +99,9 @@ So, yeah, no more fancy GIFs for the moment, sorry. As an alternative, though, I
 ![](./imgs/van2/van2_18.jpg)
 Yummi!
 
-That's it for this month, thanks for reading! Expect to hear back from me one last time, once this whole adventure has come to an end. Until then take care and close your windows, Nicola
+That's it for this month, thanks for reading! Expect to hear back from me one last time, once this whole adventure has come to an end. Until then take care and close your windows, 
+Nicola
+
+PS: In case you're still concerned about my hairstyle, here's the final proof that everything is alright:
+
+![](./imgs/van2/van2_19.jpg)
