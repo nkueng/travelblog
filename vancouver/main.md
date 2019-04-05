@@ -4,6 +4,7 @@ I'm able to spend the first couple of months of 2019 in beautiful Vancouver whil
 
 - [A First Glimpse](./van1)
 - [A Second Glance](./van2)
+<!-- - [A Third Gaze](./van3) -->
 
 ## Contact
 

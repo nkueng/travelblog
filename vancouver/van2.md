@@ -9,6 +9,7 @@ The lecture that gives me the most pleasure is a _Computer Science_ course on _D
 Not quite as good as the original, but _Lichtenstein_ also didn't have to code.
 
 Next up, I decided to invest in my cultural education and thus visit lectures in _Wine Science_. Two times a week I get to know stuff about wine growing regions, _varietal characters_, and how to best prune your vines. While such knowledge does not always strike me as overly relevant for future dinner-table small-talk, the weekly wine tasting certainly does. There, we get to taste between two and three different kinds of wine from all around the world. But we don't do so to our enjoyment only, **NO**! The objective is to assess this luxurious good in terms of color, acidity, sweetness, astringency, and so on. While this already seems like quite a daunting challenge, imagine yourself weighing the wine's body with your tongue and expressing it in terms of a scale between skim milk and whole milk. Yes, this last example will also be part of the final exam.
+You might wonder, what kind of professor teaches such bizarre stuff? I am happy to respond, that our prof is just about the perfectly strange guy for the job. Students giving the right answers get fist bumped and he could easily talk about wine aromas for hours on end. 
 
 ![](./imgs/van2/van2_1.jpg)
 Someone has no idea what he's doing. _Educated guessing_ all the way!
