@@ -96,7 +96,7 @@ So, yeah, no more fancy GIFs for the moment, sorry. As an alternative, though, I
 ![](./imgs/van2/van2_18.jpg)
 Yummi!
 
-That's it for this month, thanks for reading! Expect to hear back from me one last time, once this whole adventure has come to an end. Until then take care and close your windows, 
+That's it for this month, thanks for reading! Expect to hear back from me one last time, once this whole adventure has come to an end. Until then take care and close your windows,<br/> 
 Nicola
 
 PS: In case you're still concerned about my hairstyle, here's the final proof that everything is alright:
