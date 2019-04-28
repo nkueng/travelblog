@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-More than a month has passed since my [last report](./van2.md). In the meantime, temperatures in _Vancouver_ have been on the rise, putting an end to the _Winter Blues_. But my friend, _Gabriel_, and I couldn't just accept the melting fate of the snow and decided to head out for one last adventure in the big white. On a sunny afternoon, we loaded our skiing gear into a car and drove off to _Mt. Seymour_. Like the other two peaks close to the city, _Mt. Seymour_ is equipped with a ski-lift, which we used for a couple of rides. Once we felt ready, we put skins on the skis and started our ascent. 
+More than a month has passed since my [last report](./van2.md). In the meantime, temperatures in _Vancouver_ have been on the rise, putting an end to the _Winter Blues_. But my friend, _Gabriel_, and I couldn't just accept the melting fate of the snow and decided to head out for one last adventure in the big white. On a cloud-free afternoon, we loaded our skiing gear into a car and drove off to _Mt. Seymour_. Like the other two peaks close to the city, _Mt. Seymour_ is equipped with a ski-lift, which we used for a couple of rides. Once we felt ready, we put skins on the skis and started our ascent. 
 
 ![](./imgs/van3/van3_1.jpg)
 _Gabriel_ leaving behind Downtown _Vancouver_.
@@ -11,7 +11,7 @@ The goal of our mission was to find a kicker, called _The City Booter_, somewher
 ![](./imgs/van3/van3_2.jpg)
 It felt like jumping right back onto campus.
 
-The retreat of the snow also marked the begin of the long-awaited hiking season. Together with four other passionate hikers, I seized the opportunity on a cloud-free Saturday. We drove up north towards _Squamish_ and climbed up _The Chief Trail_. Its three peaks each offered beautiful views and made for a varied round-tour.
+The retreat of the snow also marked the begin of the long-awaited hiking season. Together with four other passionate hikers, I seized the opportunity on a sunny Saturday. We drove up north towards _Squamish_ and climbed _The Chief Trail_. Its three peaks each offered beautiful views and made for a varied round-tour.
 
 ![](./imgs/van3/van3_3.jpg)
 On top of the _Chief_: _Sofie_, _Raphaël_, me, _Marion_, and _Matilde_.
@@ -26,17 +26,17 @@ Infected with the board-game-fever, we continued playing back in town the next d
 ![](./imgs/van3/van3_5.jpg)
 The smile of a monopolist: three players had already given up.
 
-Whenever I seek diversion during daylight, I give _Nick_ a call. Apart from the name, _Nick_ and I also share a passion for tennis. This resulted in quick matches on almost a weekly basis. Despite my biggest efforts, I just can't beat him. Breaking his services normally results in me losing my nerves and subsequently the game. All those failures when playing on courts (and game-boards) slowly raise the question: "Do I lack a winner's mentality?".
+Whenever I seek diversion during daylight, I give _Nick_ a call. Apart from the name, _Nick_ and I also share a passion for tennis. This resulted in friendly matches on a weekly basis. Despite my biggest efforts, I just can't beat him. Breaking his services normally results in me losing my nerves and subsequently the game. All those failures when playing on courts (and game-boards) slowly raise the question: "Do I lack a winner's mentality?".
 
 ![](./imgs/van3/service.gif)
 Analysis turns hypnosis.
 
-But the two of us don't just compete. Sometimes we help each other climb walls. This was necessary when we competed in UBC's _Storm the Wall_ challenge. The long-standing tradition foresees students to complete a triathlon course followed by climbing a big-ass wall with the help of others.
+But the two of us don't just compete. Sometimes we help each other climb walls. This was necessary when we took part in UBC's _Storm the Wall_ challenge. The long-standing tradition foresees students to complete a triathlon course followed by climbing a big-ass wall with the help of others.
 
 ![](./imgs/van3/wall.gif)
 Practice run – good thing I got help to get up there.
 
-While the challenge is mainly aimed at student teams that split up the work, we decided to do it each on our own. Both of us successfully made it through the course, marking my very first triathlon experience. And hopefully not the last one.
+While the challenge is mainly aimed at student teams that split up the work, we decided to do it each on our own (except for the wall). Both of us successfully made it through the course, marking my very first triathlon experience. And hopefully not the last one.
 
 ![](./imgs/van3/van3_6.jpg)
 Happy and exhausted after the race.
@@ -93,7 +93,7 @@ Mesmerizing colors as the sun sets over _Tofino_.
 ![](./imgs/van3/van3_13.jpg)
 Coveted spots around the fire.
 
-Back on campus, our term was nearing its end. On the very last day of classes, UBC had one last highlight ready for us. Overnight, workers had set up a stage on the main square where later that day the _Block Party_ was going to happen. The exchange community, however, decided that our party should start way earlier. Hence, some of us met as early as 9 AM to start fueling their motors. I had to stay (semi-) sober for a project presentation in the early afternoon before I could join the fun. For lack of a better measure, the police tolerated our outdoor party. At some point, people started moving over to the official fest, but not everyone made it there. After some queuing, we finally got in – sober again. To our shock, beers were sold out as early as 7 PM, which didn't help much in enduring _Tyga's_ concert. 
+Back on campus, our term was nearing its end. On the very last day of classes, UBC had one last highlight ready for us. Overnight, workers had set up a stage on the main square where later that day the _Block Party_ was going to happen. The exchange community, however, decided that our party should start way earlier. Hence, some of us met as early as 9 AM to start fueling their motors. I had to stay (semi-) sober for a project presentation in the early afternoon before I could join the fun. For lack of a better measure, the police tolerated our outdoor party. At some point, people started moving over to the official fest, but not everyone made it there. After some queuing, we finally got in – sober again. To our shock, beers were sold out as early as 7 PM. This didn't help much in enduring _Tyga's_ concert. 
 
 ![](./imgs/van3/van3_13_1.jpg)
 The _Block Party_, a concert right on campus.
@@ -116,7 +116,7 @@ _Nina_ on one of our many walks in tranquil _Comox_.
 ![](./imgs/van3/van3_17.jpg)
 My sanatorium for two days – far away from all trouble.
 
-With my batteries fully charged again, I took the bus to the other side of _Vancouver Island_. Once more I wanted to experience magical _Tofino_: this time by surfing only, though. For three straight days, I strapped my rental board onto a bike and rode to the closest beach. The weather showed itself in all possible forms, from calm and sunny days to wild storms that stirred up the sea. For my mornings and evenings in the hostel, I got to meet interesting folk from all around the world and suddenly found myself in conversations about _Degrowth_ and _David Foster Wallace_.
+With my batteries fully charged again, I took the bus to the other side of _Vancouver Island_. Once more I wanted to experience magical _Tofino_: this time by surfing only, though. For three straight days, I strapped my rental board onto a bike and rode to the closest beach. The weather showed itself in all possible forms, from calm and sunny days to wild storms that stirred up the sea. For my mornings and evenings in the hostel, I got to meet interesting folk from all around the world and suddenly found myself in conversations about _Degrowth_ and _David Foster Wallace_. What a treat!
 
 ![](./imgs/van3/van3_18.jpg)
 Happy doing what makes me happy these days.
@@ -124,7 +124,7 @@ Happy doing what makes me happy these days.
 ![](./imgs/van3/van3_19.jpg)
 My ride to get around town.
 
-Soon after, I dropped the pen on my last exam at UBC. My term in Vancouver had officially come to its end. And with it a time full of amazing new experiences worth remembering and new friendships worth keeping up. At this point I would like to thank all the people that have crossed my paths during the past four months: 
+Soon after, I dropped the pen on my last exam at UBC. My term in Vancouver had officially come to its end. And with it a time full of amazing experiences worth remembering and new friendships worth keeping up. At this point I would like to thank all the people that have crossed my paths during the past four months: 
 
 ### You guys were the magic ingredient of my awesome time!
 ![](./imgs/van3/van3_20.jpg)
