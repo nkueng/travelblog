@@ -1,7 +1,10 @@
+---
+layout: default
+---
 In my [last report](./van1.md) you could read about the exciting start of my exchange semester. I wrote about parties, snowball fights, skiing, and parties. I later had to realize that this single-sided narrative made some people worry about the state of my studies. And especially about the state of my hairstyle.
 Therefore, I will dedicate this _entire_ episode to counteract those disbeliefs and prove that indeed both – my studies and hair – are doing quite well. So, let me begin with
 
-### My courses at UBC
+## My Courses at UBC
 
 The lecture that gives me the most pleasure is a _Computer Science_ course on _Data Structures and Algorithms_. It helped me to finally overcome my fear of _Recursion_ and also made me understand why a _Sorted List_ is such a big thing among nerds. Never before have I ever had such passionate instructors. And their joy has certainly also infected me. I get to write code on a regular basis and often with a spectacular outcome like the one below.
 
@@ -31,28 +34,28 @@ Thanks, UBC, you've helped me come to terms with my choices.
 
 This in-depth analysis of my courses has certainly tired you, my dear reader, to the same extent my studies have tired me during the first half of the term. So, how about we take a break together and fly out for a quick trip to
 
-### Hawaii
+## Hawaii
 
 At least, that's what I did. During the so-called _reading week_, I joined my fellow exchange friends for an awesome adventure in _Honolulu_.
 
 ![](./imgs/van2/van2_5.jpg)
-My Swiss-Austrian fellowship: Nick, Eray, and Teresa
+My Swiss-Austrian fellowship: _Nick_, _Eray_, and _Teresa_
 
 Our plan was relatively simple:
 
-#### 1. Hike
+### 1. Hike
 ![](./imgs/van2/van2_6.jpg)
 
-#### 2. Chill
+### 2. Chill
 ![](./imgs/van2/van2_7.jpg)
 
-#### 3. Surf
+### 3. Surf
 ![](./imgs/van2/van2_8.jpg)
 
-#### 4. Eat
+### 4. Eat
 ![](./imgs/van2/van2_9.jpg)
 
-#### 5. And Be Silly
+### 5. And Be Silly
 ![](./imgs/van2/van2_10.jpg)
 
 According to these metrics, our little holiday was a major success. Situated right in the heart of _Waikiki_, it took us no more than 5 minutes to get to the beach. This together with the 24/7-availability of surfboards at our Airbnb left us with no real alternative to surfing (I've never been more willing to accept a restriction). Once, we have finally made it outside of Downtown, we usually sought discomfort in the form of hiking. 

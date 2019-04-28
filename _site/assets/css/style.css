@@ -144,11 +144,11 @@ h3, h4, h5, h6 { color: #494949; }
 
 a { color: #267CB9; text-decoration: none; }
 
-a:hover, a:focus { color: #267CB9; font-weight: bold; }
+a:hover, a:focus { color: #069; font-weight: bold; }
 
-a small { font-size: 11px; color: #267CB9; margin-top: -0.3em; display: block; }
+a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
-a:hover small { color: #267CB9; }
+a:hover small { color: #777; }
 
 .wrapper { width: 860px; margin: 0 auto; }
 
@@ -178,17 +178,17 @@ header li:first-child a { border-radius: 5px 0 0 5px; }
 
 header li:last-child a { border-radius: 0 5px 5px 0; }
 
-header ul a { line-height: 1; font-size: 11px; color: #267CB9; display: block; text-align: center; padding-top: 6px; height: 34px; }
+header ul a { line-height: 1; font-size: 11px; color: #676767; display: block; text-align: center; padding-top: 6px; height: 34px; }
 
-header ul a:hover, header ul a:focus { color: #267CB9; font-weight: bold; }
+header ul a:hover, header ul a:focus { color: #675C5C; font-weight: bold; }
 
-header ul a:active { background-color: white; }
+header ul a:active { background-color: #f0f0f0; }
 
 strong { color: #222; font-weight: 700; }
 
 header ul li + li + li { border-right: none; width: 89px; }
 
-header ul a strong { font-size: 14px; display: block; color: #267CB9; }
+header ul a strong { font-size: 14px; display: block; color: #222; }
 
 section { width: 500px; float: right; padding-bottom: 50px; }
 

@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ## A wise man once said
 
     Happiness = Reality - Expectations
