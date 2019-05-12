@@ -24,7 +24,7 @@ This afternoon had just about everything I could desire.
 Infected with the board-game-fever, we continued playing back in town the next day. At a bar entirely dedicated to this kind of pastime, we opened a box of _Monopoly_ and immersed ourselves in an epic four-hour battle. Despite claiming it as my all-time favorite game, I realized I had never played it the _real_ way before. Because the _real_ way means playing until one single monopolist prevails. After several hours proved not to be sufficient to this end, we called it off and went home.
 
 ![](./imgs/van3/van3_5.jpg)
-The smile of a monopolist: three players had already given up.
+The smile of a monopolist: _Sofie_ took the title once again.
 
 Whenever I seek diversion during daylight, I give _Nick_ a call. Apart from the name, _Nick_ and I also share a passion for tennis. This resulted in friendly matches on a weekly basis. Despite my biggest efforts, I just can't beat him. Breaking his services normally results in me losing my nerves and subsequently the game. All those failures when playing on courts (and game-boards) slowly raise the question: "Do I lack a winner's mentality?".
 
