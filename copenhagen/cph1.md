@@ -100,7 +100,7 @@ We crossed the bridge to neighboring Sweden and drove some two hours to the coas
 ![me riding large wave](imgs/1/surf.gif)
 (To put this in context, have a look at my modest beginnings [here](../mexico/w15).)
 
-Speaking of water, there’s one big difference between surfing the French Côte Basque during summer and winter-surf in Scandinavia: between 10 and 15 degrees Celsius in water temperature. To deal with this difference, one requires a thick-ass wetsuit. I wrap myself in 6mm of neoprene before entering the water which makes me look like a ninja but makes me feel like a knight in heavy armor.
+Speaking of water, there’s one big difference between surfing the French Côte Basque during summer and winter-surf in Scandinavia: around 10 to 15 degrees Celsius in water temperature. To deal with this difference, one requires a thick-ass wetsuit. I wrap myself in 6mm of neoprene before entering the water which makes me look like a ninja but makes me feel like a knight in heavy armor.
 
 ![me in wetsuit](imgs/1/14.jpeg)
 
