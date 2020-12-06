@@ -104,6 +104,6 @@ Speaking of water, there’s one big difference between surfing the French Côte
 
 ![me in wetsuit](imgs/1/14.jpeg)
 
-And there’s another big difference between the two: large waves are a rare sight in Denmark. Trapped between the rather small Nordic and Baltic Seas, the fetch is considerably smaller than on a coast facing the vast Atlantic. Hence, surfing remains an occasional privilege here. Good thing, I brought another board for those days in between. 
+And there’s another big difference between the two: large waves are a rare sight in Denmark. Trapped between the rather small North and Baltic Seas, the fetch is considerably smaller than on a coast facing the vast Atlantic. Hence, surfing remains an occasional privilege here. Good thing, I brought another board for those days in between. 
 
 ![gif in skatepark](imgs/1/skate.gif)
