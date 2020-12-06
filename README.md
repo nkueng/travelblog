@@ -4,3 +4,8 @@ The design is based on `jekyll`'s `minimal` theme by [orderedlist](https://githu
 To-Dos:
 - add newsletter functionality
 - add old texts from Vancouver to blog
+
+For debugging, run locally via
+```
+bundle exec jekyll serve
+```

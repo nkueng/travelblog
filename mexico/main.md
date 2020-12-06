@@ -1,14 +1,12 @@
 ---
 layout: default
 ---
-## Herzlich willkommen auf meinem Reiseblog
+## ¡Viva México!
 <!-- 
 Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. 
 Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst! -->
 
 Vier Monate lang war ich in Mexiko unterwegs und durfte dabei viele spannende Episoden erleben. Auf diesem Blog habe ich sie wöchentlich zu einem humorvollen Bericht verdichtet. Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst!
-
-## Wochenberichte
 
 - [Woche 1: Meine Anfänge in _Juárez_](./w1)
 - [Woche 2: Erste Routinen](./w2)
