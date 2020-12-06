@@ -5,10 +5,9 @@ layout: default
 
 ### Dear Friends and Family,
 
-I am very sorry for the long wait. I was terribly busy filing tons of legal forms and running back and forth between institutions instead of writing this blog. But now it’s high time to start writing again as there’s a lot to write about. How come? Because I’ve recently left Zurich for love and work. Equipped only with a bike and a surfboard (more about that later). 
+So sorry for the long wait. I was terribly busy filing tons of legal forms and running back and forth between institutions instead of writing this blog. But now it’s high time to start writing again as there’s a lot to write about. How come? Because I’ve recently left Zurich for love and work. Equipped only with a bike and a surfboard (more about that later). 
 
 ![at the airport with surfboard](imgs/1/1.jpeg) 
-
 
 My destination was Copenhagen, the beautiful capital of Denmark – and the hometown of my even more beautiful girlfriend, Sofie. In case you wonder how we met, have a look [here](./../vancouver/van3). Thanks to the flexibility of my studies, I could choose the location of my internship freely. And I was lucky enough to find one that would allow me to move in with Sofie. But not only the location of this internship was perfect… (more about this later).
 
@@ -86,6 +85,7 @@ So, I ride to work in what looks like the annual bike demonstration back home in
 And boy, I really love going there for work. I’m doing an internship at a small Start-Up company that produces Motion-Capture suits. This technology allows actors and other creatives to capture their body motion in a digital format with ease. 
 
 ![me in suit](imgs/1/11a.gif){: width="79%"} | ![me on computer](imgs/1/11b.gif)
+input | output
 
 I enjoy working there because I am given full responsibility for meaningful tasks that are intellectually stimulating, and my coworkers are simply really cool people. So, unlike every other job I did before, the lunch break is not the only thing I am looking forward to anymore.
 
@@ -104,6 +104,6 @@ Speaking of water, there’s one big difference between surfing the French Côte
 
 ![me in wetsuit](imgs/1/14.jpeg)
 
-And there’s another big difference between the two: large waves are a rare sight in Denmark. Trapped between the rather small Nordic and Baltic Seas, the fetch is considerably smaller than on a coast facing the vast Atlantic. Hence, surfing remains an occasional privilege here. Good thing, I brought another board for those days in-between. 
+And there’s another big difference between the two: large waves are a rare sight in Denmark. Trapped between the rather small Nordic and Baltic Seas, the fetch is considerably smaller than on a coast facing the vast Atlantic. Hence, surfing remains an occasional privilege here. Good thing, I brought another board for those days in between. 
 
 ![gif in skatepark](imgs/1/skate.gif)

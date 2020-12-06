@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+## A Third Gaze
+
 More than a month has passed since my [last report](./van2.md). In the meantime, temperatures in _Vancouver_ have been on the rise, putting an end to the _Winter Blues_. But my friend, _Gabriel_, and I couldn't just accept the melting fate of the snow and decided to head out for one last adventure in the big white. On a cloud-free afternoon, we loaded our skiing gear into a car and drove off to _Mt. Seymour_. Like the other two peaks close to the city, _Mt. Seymour_ is equipped with a ski-lift, which we used for a couple of rides. Once we felt ready, we put skins on the skis and started our ascent. 
 
 ![](./imgs/van3/van3_1.jpg)

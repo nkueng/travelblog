@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-## A wise man once said
+
+## A First Glimpse
+
+A wise man once said
 
     Happiness = Reality - Expectations
 

@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+# A Second Glance
+
 In my [last report](./van1.md) you could read about the exciting start of my exchange semester. I wrote about parties, snowball fights, skiing, and parties. I later had to realize that this single-sided narrative made some people worry about the state of my studies. And especially about the state of my hairstyle.
 Therefore, I will dedicate this _entire_ episode to counteract those disbeliefs and prove that indeed both – my studies and hair – are doing quite well. So, let me begin with
 
