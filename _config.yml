@@ -24,7 +24,7 @@ twitter_username:
 github_username: nkueng
 logo: /me.png
 show_downloads: false
-google_analytics: UA-134065236-1
+google_analytics: G-F8QHC14SMG # UA-134065236-1
 
 # Build settings
 markdown: kramdown
