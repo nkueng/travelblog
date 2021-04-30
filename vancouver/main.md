@@ -11,4 +11,4 @@ I'm able to spend the first couple of months of 2019 in beautiful Vancouver whil
 
 ## Contact
 
-Please send Suggestions, Congratulations, Proposals directly to <a href="mailto:nickueng@gmail.com">me</a>.
+Please send suggestions, congratulations, proposals directly to <a href="mailto:nickueng@gmail.com">me</a>.

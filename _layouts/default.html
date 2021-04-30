@@ -31,13 +31,30 @@
           <li><a href="/travelblog/copenhagen/main">Copenhagen</a></li>
         </ul>
 
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/nickueng"
+          method="post"
+          target="popupwindow"
+          onsubmit="window.open('https://buttondown.email/nickueng', 'popupwindow')"
+          class="embeddable-buttondown-form"
+        >
+          <label for="bd-email">Keep me updated!</br></label>
+          <input type="email" name="email" id="bd-email" placeholder="you@example.com"/>
+          <input type="hidden" value="1" name="embed" />
+          <input type="submit" value="Subscribe" />
+          <!-- <p>
+            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
+          </p> -->
+        </form>
+        
+
  <!--        {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %} -->
 
-        {% if site.github.is_user_page %}
+        <!-- {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
+        {% endif %} -->
 
         <!-- {% if site.show_downloads %}
         <ul>
@@ -50,7 +67,7 @@
       <section>
 
       {{ content }}
-
+        <p>Do you like my writing? Sign up for newsletters <a href="https://buttondown.email/nickueng">here</a>!</p>
       </section>
       <footer>
         {% if site.github.is_project_page %}
