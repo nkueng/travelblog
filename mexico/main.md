@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## ¡Viva México!
+# ¡Viva México!
 <!-- 
 Einmal die Woche lade ich hier eine Beschreibung meiner neuesten Erlebnisse hoch. 
 Ich würde mich freuen, wenn Du mir auf meiner Reise durch Mexiko folgst! -->

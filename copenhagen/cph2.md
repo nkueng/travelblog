@@ -8,7 +8,7 @@ layout: default
 In my last [post](cph1), I told you all about starting out in a new country (yes, I did it again). Setting up ones life is an exhausting activity. Not only did I have to chase my legal residence in Denmark. I also had to furnish an empty flat, find places and people to pursue my hobbies with, and – not to forget – start working on a new job.
 
 ![christmas tree](imgs/2/christmastree.jpeg)
-*The culmination of my internship: Christmas lights made from my company's product*
+The culmination of my internship: Christmas lights made from my company's product
 
 As you’d expect, there wasn’t much time to just lie back and enjoy the wonderful things happening to me. But this changed drastically after the Christmas Break. Following a lot of *exploration*, it was not time for some *exploitation*. For the second leg of my internship in Copenhagen, I made sure to live every moment to the fullest. A quality that’s widely popular in Denmark.
 
@@ -49,7 +49,7 @@ To make matters worse, some of the words don’t mean what you’d think. A *tim
 While I was able to enjoy some physical classes at first, Denmark pulled the plug on public life sometime in winter. This meant home-schooling, home-office, and suddenly having a lot of time at hand.
 
 ![frozen](imgs/2/frozen.jpeg)
-*Can't think of a better symbol for the lockdown than the frozen canal through the city*
+Can't think of a better symbol for the lockdown than the frozen canal through the city
 
 ![homeoffice](imgs/2/homeoffice.jpeg)
 
