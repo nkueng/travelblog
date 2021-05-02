@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-## Getting Started
+# Getting Started
 
-### Dear Friends and Family,
+Dear Friends and Family,
 
 So sorry for the long wait. I was terribly busy filing tons of legal forms and running back and forth between institutions instead of writing this blog. But now it’s high time to start writing again as there’s a lot to write about. How come? Because I’ve recently left Zurich for love and work. Equipped only with a bike and a surfboard.
 
