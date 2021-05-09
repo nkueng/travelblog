@@ -24,28 +24,12 @@
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
-        <hX>Stations so far:</hX>
-        <ul>
+        <h3>Stations so far:</h3>
+        <ul style="margin-top:-15px;">
           <li><a href="/travelblog/mexico/main">Mexico</a></li>
           <li><a href="/travelblog/vancouver/main">Vancouver</a></li>
           <li><a href="/travelblog/copenhagen/main">Copenhagen</a></li>
         </ul>
-
-        <form
-          action="https://buttondown.email/api/emails/embed-subscribe/nickueng"
-          method="post"
-          target="popupwindow"
-          onsubmit="window.open('https://buttondown.email/nickueng', 'popupwindow')"
-          class="embeddable-buttondown-form"
-        >
-          <label for="bd-email">Keep me updated!</br></label>
-          <input type="email" name="email" id="bd-email" placeholder="you@example.com"/>
-          <input type="hidden" value="1" name="embed" />
-          <input type="submit" value="Subscribe" />
-          <!-- <p>
-            <a href="https://buttondown.email" target="_blank">Powered by Buttondown.</a>
-          </p> -->
-        </form>
         
 
  <!--        {% if site.github.is_project_page %}
@@ -65,14 +49,13 @@
         {% endif %} -->
       </header>
       <section>
-
       {{ content }}
         <!-- <p>Do you like my writing? Sign up for newsletters <a href="https://buttondown.email/nickueng">here</a>!</p> -->
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <!-- {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
+        {% endif %} -->
         <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
       </footer>
     </div>
