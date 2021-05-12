@@ -3,6 +3,7 @@ The design is based on `jekyll`'s `minimal` theme by [orderedlist](https://githu
 
 To-Dos:
 - add old texts from Vancouver to blog
+- implement [Disqus](https://disqus.com/features/engage/) comments
 
 For debugging, run locally via
 
