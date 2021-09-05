@@ -85,4 +85,4 @@ And that was more or less it. My year of 2021 began with a daily repetition work
 
 6 wonderful months had passed in what felt like a matter of weeks. No way, I could just pack my bags and go back to my old life in Switzerland. This has to continue! And I am most happy to tell you that it will. As of May 2021, I will be writing my Master’s thesis in Copenhagen. Another adventure you will surely hear more about...
 
-PS: Denmark is still very strict when it comes to entering the country. I will let you know as soon as they lift the entry restrictions for tourism, so you can visit me and this magical city!
+PS: Denmark was very successful in their vaccination campaign and has lifted most restrictions. It is now very easy to enter the country and come visit me :)
